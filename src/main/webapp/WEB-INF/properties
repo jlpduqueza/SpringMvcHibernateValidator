@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/shopping_web_app
+db.username=root
+db.password=
